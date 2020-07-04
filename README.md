@@ -1,2 +1,2 @@
 # pixelsorting-start
-My first repository, about pixelsorting
+My first repository, about pixelsorting will be here soon
